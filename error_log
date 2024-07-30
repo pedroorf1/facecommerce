@@ -1,0 +1,1097 @@
+[09-Sep-2017 23:02:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[09-Sep-2017 23:02:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[09-Sep-2017 23:10:42 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:10:42 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:10:42 America/Chicago] PHP Fatal error:  require(): Failed opening required '../site/administracao/cabecalho.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:12:22 America/Chicago] PHP Warning:  require(/site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:12:22 America/Chicago] PHP Fatal error:  require(): Failed opening required '/site/administracao/cabecalho.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:26:08 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:26:08 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:26:08 America/Chicago] PHP Fatal error:  require(): Failed opening required '../site/administracao/cabecalho.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/pesquisar.php on line 2
+[09-Sep-2017 23:34:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[09-Sep-2017 23:35:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[09-Sep-2017 23:37:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[09-Sep-2017 23:40:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 43
+[09-Sep-2017 23:46:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 39
+[10-Sep-2017 17:57:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facec402/public_html/site/administracao/funcoes.php:2) in /home/facec402/public_html/site/administracao/logar.php on line 38
+[10-Sep-2017 20:28:50 America/Chicago] PHP Fatal error:  Call to undefined function substPontoPorVirgula() in /home/facec402/public_html/site/administracao/visitarproduto.php on line 73
+[10-Sep-2017 20:32:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/facec402/public_html/site/administracao/visitarproduto.php on line 4
+[12-Sep-2017 20:29:15 America/Chicago] PHP Warning:  Missing argument 4 for enviarEmail(), called in /home/facec402/public_html/site/administracao/inserir_usuario.php on line 78 and defined in /home/facec402/public_html/site/administracao/funcoes.php on line 1230
+[12-Sep-2017 20:29:15 America/Chicago] PHP Warning:  Missing argument 5 for enviarEmail(), called in /home/facec402/public_html/site/administracao/inserir_usuario.php on line 78 and defined in /home/facec402/public_html/site/administracao/funcoes.php on line 1230
+[12-Sep-2017 20:29:15 America/Chicago] PHP Notice:  Undefined variable: conteudo in /home/facec402/public_html/site/administracao/funcoes.php on line 1240
+[12-Sep-2017 20:29:16 America/Chicago] PHP Notice:  Undefined variable: msgConfirmação in /home/facec402/public_html/site/administracao/funcoes.php on line 1245
+[12-Sep-2017 21:24:09 America/Chicago] PHP Warning:  require(administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/ativar_user.php on line 2
+[12-Sep-2017 21:24:09 America/Chicago] PHP Warning:  require(administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/ativar_user.php on line 2
+[12-Sep-2017 21:24:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'administracao/cabecalho.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/ativar_user.php on line 2
+[12-Sep-2017 21:30:34 America/Chicago] PHP Notice:  Undefined variable: _com in /home/facec402/public_html/site/administracao/ativar_user.php on line 13
+[12-Sep-2017 21:30:34 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/facec402/public_html/site/administracao/ativar_user.php on line 13
+[12-Sep-2017 21:30:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'facec402_localcom.localcom_susario' doesn't exist' in /home/facec402/public_html/site/administracao/ativar_user.php:14
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/ativar_user.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/ativar_user.php on line 14
+[12-Sep-2017 21:40:35 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/facec402/public_html/site/administracao/ativar_user.php on line 23
+[12-Sep-2017 21:46:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/ativar_user.php on line 17
+[21-Sep-2017 19:02:28 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home/facec402/public_html/site/administracao/comprar.php on line 8
+[22-Sep-2017 08:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/comprar.php on line 11
+[22-Sep-2017 08:25:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/comprar.php on line 11
+[22-Sep-2017 08:25:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/comprar.php on line 11
+[22-Sep-2017 08:25:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/comprar.php on line 11
+[22-Sep-2017 10:03:35 America/Chicago] PHP Warning:  require(conncet.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/comprar.php on line 15
+[22-Sep-2017 10:03:35 America/Chicago] PHP Warning:  require(conncet.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/comprar.php on line 15
+[22-Sep-2017 10:03:35 America/Chicago] PHP Fatal error:  require(): Failed opening required 'conncet.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/comprar.php on line 15
+[22-Sep-2017 10:32:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'facec402_localcom.localcom_usuarios' doesn't exist' in /home/facec402/public_html/site/administracao/comprar.php:18
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/comprar.php(18): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/comprar.php on line 18
+[22-Sep-2017 10:33:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'localcom_produto.userid' in 'where clause'' in /home/facec402/public_html/site/administracao/comprar.php:18
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/comprar.php(18): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/comprar.php on line 18
+[22-Sep-2017 10:36:04 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'localcom_produto.iduser' in 'where clause'' in /home/facec402/public_html/site/administracao/comprar.php:18
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/comprar.php(18): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/comprar.php on line 18
+[23-Sep-2017 09:15:54 America/Chicago] PHP Notice:  Undefined index: localcom_us_sobrenome in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 09:16:28 America/Chicago] PHP Notice:  Undefined index: localcom_us_none in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 09:16:28 America/Chicago] PHP Notice:  Undefined index: localcom_us_sobrenome in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 10:13:54 America/Chicago] PHP Notice:  Undefined index: localcom_us_none in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 10:13:54 America/Chicago] PHP Notice:  Undefined index: localcom_us_sobrenome in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 10:14:24 America/Chicago] PHP Notice:  Undefined index: localcom_us_none in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 10:14:24 America/Chicago] PHP Notice:  Undefined index: localcom_us_sobrenome in /home/facec402/public_html/site/administracao/comprar.php on line 26
+[23-Sep-2017 11:43:38 America/Chicago] PHP Notice:  Undefined index: ID_PROD in /home/facec402/public_html/site/administracao/comprar.php on line 7
+[23-Sep-2017 11:43:38 America/Chicago] PHP Notice:  Undefined index: ID_PROD in /home/facec402/public_html/site/administracao/comprar.php on line 9
+[24-Sep-2017 11:57:07 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/facec402/public_html/site/administracao/comprar.php on line 15
+[24-Sep-2017 11:59:15 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id_vendedor',
+		'id_comprador',
+		'id_produto',
+		'valor_frete',
+		'quantidade'' at line 2' in /home/facec402/public_html/site/administracao/comprar.php:74
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/comprar.php(74): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/comprar.php on line 74
+[25-Sep-2017 08:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/facec402/public_html/site/administracao/minhascompras.php on line 10
+[25-Sep-2017 10:26:28 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/facec402/public_html/site/administracao/minhascompras.php on line 31
+[25-Sep-2017 10:26:28 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/facec402/public_html/site/administracao/minhascompras.php on line 31
+[25-Sep-2017 10:26:28 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/facec402/public_html/site/administracao/minhascompras.php on line 31
+[25-Sep-2017 10:26:28 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/facec402/public_html/site/administracao/minhascompras.php on line 31
+[25-Sep-2017 10:27:32 America/Chicago] PHP Notice:  Array to string conversion in /home/facec402/public_html/site/administracao/minhascompras.php on line 33
+[25-Sep-2017 10:27:32 America/Chicago] PHP Notice:  Array to string conversion in /home/facec402/public_html/site/administracao/minhascompras.php on line 33
+[25-Sep-2017 10:27:32 America/Chicago] PHP Notice:  Array to string conversion in /home/facec402/public_html/site/administracao/minhascompras.php on line 33
+[25-Sep-2017 10:27:32 America/Chicago] PHP Notice:  Array to string conversion in /home/facec402/public_html/site/administracao/minhascompras.php on line 33
+[25-Sep-2017 10:49:52 America/Chicago] PHP Notice:  Undefined index: 	localcom_produto in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Notice:  Undefined index: 	localcom_produto in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Notice:  Undefined index: 	localcom_produto in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Notice:  Undefined index: 	localcom_produto in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:49:52 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:50:31 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:50:31 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:50:31 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:50:31 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:54:20 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:54:20 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:54:20 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 10:54:20 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/minhascompras.php on line 37
+[25-Sep-2017 21:32:56 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'localcom_us_cp' in 'where clause'' in /home/facec402/public_html/site/administracao/testarCpfExiste.php:26
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/testarCpfExiste.php(26): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/testarCpfExiste.php on line 26
+[25-Sep-2017 21:36:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/testarCpfExiste.php on line 33
+[25-Sep-2017 21:37:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/facec402/public_html/site/administracao/testarCpfExiste.php on line 33
+[25-Sep-2017 21:42:03 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/facec402/public_html/site/administracao/testarCpfExiste.php on line 25
+[05-Oct-2017 22:13:32 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:19:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''$_exibir['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:25:25 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/minhascompras.php on line 45
+[05-Oct-2017 22:35:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$_exibir' (T_VARIABLE), expecting ',' or ';' in /home/facec402/public_html/site/administracao/minhascompras.php on line 64
+[07-Oct-2017 07:58:53 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/facec402/public_html/site/administracao/prod_comprado.php on line 25
+[07-Oct-2017 07:59:54 America/Chicago] PHP Notice:  Use of undefined constant comprovante_pgto - assumed 'comprovante_pgto' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 25
+[07-Oct-2017 07:59:54 America/Chicago] PHP Notice:  Use of undefined constant pagamento_confirmado - assumed 'pagamento_confirmado' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 26
+[07-Oct-2017 07:59:54 America/Chicago] PHP Notice:  Use of undefined constant foto_produto - assumed 'foto_produto' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 27
+[07-Oct-2017 07:59:54 America/Chicago] PHP Notice:  Use of undefined constant comprovante_postado - assumed 'comprovante_postado' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 28
+[07-Oct-2017 07:59:54 America/Chicago] PHP Notice:  Use of undefined constant foto_recebido_ok - assumed 'foto_recebido_ok' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 29
+[07-Oct-2017 08:16:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 56
+[07-Oct-2017 10:11:34 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 56
+[07-Oct-2017 10:13:29 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 56
+[07-Oct-2017 10:15:37 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:17:44 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:18:43 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:19:30 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:20:45 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:22:14 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:23:10 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:25:31 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[07-Oct-2017 10:30:39 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[08-Oct-2017 13:59:59 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[08-Oct-2017 14:02:20 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[08-Oct-2017 14:29:25 America/Chicago] PHP Notice:  Undefined index: compra in /home/facec402/public_html/site/administracao/prod_comprado.php on line 11
+[08-Oct-2017 14:29:25 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 57
+[08-Oct-2017 14:37:13 America/Chicago] PHP Notice:  Undefined index: localcom_produto in /home/facec402/public_html/site/administracao/prod_comprado.php on line 39
+[08-Oct-2017 14:37:13 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 59
+[08-Oct-2017 14:39:34 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'facec402_localcom.localcom_produto' doesn't exist' in /home/facec402/public_html/site/administracao/prod_comprado.php:17
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/prod_comprado.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/prod_comprado.php on line 17
+[08-Oct-2017 14:40:15 America/Chicago] PHP Notice:  Undefined index: comprovante in /home/facec402/public_html/site/administracao/prod_comprado.php on line 59
+[08-Oct-2017 14:46:41 America/Chicago] PHP Warning:  move_uploaded_file(/comprovantes/21d5b2d7ab18159b651971b376fd953559da80a1721e13.33478403.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:46:41 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdx3AdT' to '/comprovantes/21d5b2d7ab18159b651971b376fd953559da80a1721e13.33478403.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:47:51 America/Chicago] PHP Warning:  move_uploaded_file(../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da80e79579e0.78584434.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:47:51 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptAWwkS' to '../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da80e79579e0.78584434.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:48:49 America/Chicago] PHP Warning:  move_uploaded_file(../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da81216e5752.03942500.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:48:49 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsPfYN1' to '../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da81216e5752.03942500.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:49:45 America/Chicago] PHP Warning:  move_uploaded_file(../comprovantes/21d5b2d7ab18159b651971b376fd953559da81594db5f5.07516012.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:49:45 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5MYqI9' to '../comprovantes/21d5b2d7ab18159b651971b376fd953559da81594db5f5.07516012.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:51:16 America/Chicago] PHP Warning:  move_uploaded_file(/public_html/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da81b4499ff4.47638191.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:51:16 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAPsEGM' to '/public_html/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da81b4499ff4.47638191.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:52:47 America/Chicago] PHP Warning:  move_uploaded_file(../public_html/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da820feb3ec6.43137186.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:52:47 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbW0jaj' to '../public_html/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da820feb3ec6.43137186.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:53:32 America/Chicago] PHP Warning:  move_uploaded_file(../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da823ccc1153.66097212.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:53:32 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpr08WRX' to '../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da823ccc1153.66097212.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:54:05 America/Chicago] PHP Warning:  move_uploaded_file(../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da825d5d8362.35381585.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:54:05 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAXVbXJ' to '../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da825d5d8362.35381585.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:55:01 America/Chicago] PHP Warning:  move_uploaded_file(../comprovantes/21d5b2d7ab18159b651971b376fd953559da8295b1f1c9.04770004.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:55:01 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ99Ysq' to '../comprovantes/21d5b2d7ab18159b651971b376fd953559da8295b1f1c9.04770004.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:56:09 America/Chicago] PHP Warning:  move_uploaded_file(../../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da82d95484c6.12783926.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:56:09 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpopKaxJ' to '../../../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da82d95484c6.12783926.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:56:52 America/Chicago] PHP Warning:  move_uploaded_file(/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da830465f737.47250044.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:56:52 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpACeqOw' to '/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da830465f737.47250044.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:57:56 America/Chicago] PHP Warning:  move_uploaded_file(../comprovantes/21d5b2d7ab18159b651971b376fd953559da83445cf905.50469203.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 14:57:56 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRMx8g3' to '../comprovantes/21d5b2d7ab18159b651971b376fd953559da83445cf905.50469203.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:00:30 America/Chicago] PHP Warning:  move_uploaded_file(www.facecomerce.com/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da83df02da69.25703250.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:00:30 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAsJNQ8' to 'www.facecomerce.com/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da83df02da69.25703250.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:01:34 America/Chicago] PHP Warning:  move_uploaded_file(http://www.facecomerce.com/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da841e0e3980.34057860.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:01:34 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpp6Oy7H' to 'http://www.facecomerce.com/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da841e0e3980.34057860.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:02:08 America/Chicago] PHP Warning:  move_uploaded_file(/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da84401ab9d0.90585695.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:02:08 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1Q5V05' to '/site/comprovantes/21d5b2d7ab18159b651971b376fd953559da84401ab9d0.90585695.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:02:43 America/Chicago] PHP Warning:  move_uploaded_file(../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da846377bfb6.02114798.jpg): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:02:43 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6EOeVQ' to '../site/comprovantes/21d5b2d7ab18159b651971b376fd953559da846377bfb6.02114798.jpg' in /home/facec402/public_html/site/administracao/funcoes.php on line 784
+[08-Oct-2017 15:20:31 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/facec402/public_html/site/administracao/prod_comprado.php on line 42
+[08-Oct-2017 15:22:47 America/Chicago] PHP Warning:  str_repeat() expects exactly 2 parameters, 3 given in /home/facec402/public_html/site/administracao/prod_comprado.php on line 60
+[08-Oct-2017 15:24:33 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/facec402/public_html/site/administracao/prod_comprado.php on line 60
+[11-Oct-2017 20:49:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/facec402/public_html/site/administracao/visitarproduto.php on line 121
+[11-Oct-2017 20:50:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/facec402/public_html/site/administracao/visitarproduto.php on line 199
+[11-Oct-2017 21:09:52 America/Chicago] PHP Notice:  Undefined variable: lista_perguntas in /home/facec402/public_html/site/administracao/visitarproduto.php on line 132
+[11-Oct-2017 21:09:52 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/facec402/public_html/site/administracao/visitarproduto.php on line 132
+[11-Oct-2017 21:09:52 America/Chicago] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/facec402/public_html/site/administracao/visitarproduto.php on line 132
+[11-Oct-2017 21:46:13 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id_produto','id_usuario','pergunta')values('43','17','czcczxczxczxczxczxczcz')' at line 1' in /home/facec402/public_html/site/administracao/inserirpergunta.php:12
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/inserirpergunta.php(12): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/inserirpergunta.php on line 12
+[11-Oct-2017 22:40:07 America/Chicago] PHP Notice:  Undefined index: id_user in /home/facec402/public_html/site/administracao/visitarproduto.php on line 28
+[11-Oct-2017 23:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/facec402/public_html/site/administracao/visitarproduto.php on line 223
+[13-Oct-2017 21:03:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_notificado' in 'field list'' in /home/facec402/public_html/site/administracao/notificar.php:17
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/notificar.php(17): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/notificar.php on line 17
+[14-Oct-2017 07:46:20 America/Chicago] PHP Notice:  Undefined index: ID in /home/facec402/public_html/site/administracao/visitarproduto.php on line 32
+[14-Oct-2017 07:46:56 America/Chicago] PHP Notice:  Undefined index: ID in /home/facec402/public_html/site/administracao/visitarproduto.php on line 32
+[14-Oct-2017 07:48:08 America/Chicago] PHP Notice:  Undefined index: ID in /home/facec402/public_html/site/administracao/visitarproduto.php on line 32
+[14-Oct-2017 07:49:19 America/Chicago] PHP Notice:  Undefined index: ID in /home/facec402/public_html/site/administracao/visitarproduto.php on line 32
+[14-Oct-2017 09:16:29 America/Chicago] PHP Notice:  Undefined index: ID in /home/facec402/public_html/site/administracao/visitarproduto.php on line 32
+[17-Oct-2017 18:26:28 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:26:28 America/Chicago] PHP Warning:  require(../site/administracao/cabecalho.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:26:28 America/Chicago] PHP Fatal error:  require(): Failed opening required '../site/administracao/cabecalho.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:04 America/Chicago] PHP Warning:  require(../../site/administracao/cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:04 America/Chicago] PHP Warning:  require(../../site/administracao/cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:04 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../site/administracao/cabecalho' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:20 America/Chicago] PHP Warning:  require(/site/administracao/cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:20 America/Chicago] PHP Fatal error:  require(): Failed opening required '/site/administracao/cabecalho' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:24 America/Chicago] PHP Warning:  require(/site/administracao/cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:24 America/Chicago] PHP Fatal error:  require(): Failed opening required '/site/administracao/cabecalho' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:48 America/Chicago] PHP Warning:  require(cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:48 America/Chicago] PHP Warning:  require(cabecalho): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:27:48 America/Chicago] PHP Fatal error:  require(): Failed opening required 'cabecalho' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/visitarproduto.php on line 2
+[17-Oct-2017 18:40:32 America/Chicago] PHP Warning:  require(../site/administracao/funcoes.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/cabecalho.php on line 47
+[17-Oct-2017 18:40:32 America/Chicago] PHP Warning:  require(../site/administracao/funcoes.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/cabecalho.php on line 47
+[17-Oct-2017 18:40:32 America/Chicago] PHP Fatal error:  require(): Failed opening required '../site/administracao/funcoes.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/cabecalho.php on line 47
+[21-Oct-2017 17:16:32 America/Chicago] PHP Fatal error:  Call to undefined function substituir_especiais() in /home/facec402/public_html/site/administracao/visitarproduto.php on line 20
+[21-Oct-2017 17:26:19 America/Chicago] PHP Notice:  Undefined variable: _lis in /home/facec402/public_html/site/administracao/visitarproduto.php on line 22
+[22-Oct-2017 11:21:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE venda_id='15'' at line 1' in /home/facec402/public_html/site/administracao/confirmar_pagamento.php:10
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/confirmar_pagamento.php(10): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/confirmar_pagamento.php on line 10
+[22-Oct-2017 11:22:55 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE venda_id=15' at line 1' in /home/facec402/public_html/site/administracao/confirmar_pagamento.php:10
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/confirmar_pagamento.php(10): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/confirmar_pagamento.php on line 10
+[22-Oct-2017 11:24:25 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE venda_id=15' at line 1' in /home/facec402/public_html/site/administracao/confirmar_pagamento.php:10
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/confirmar_pagamento.php(10): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/confirmar_pagamento.php on line 10
+[22-Oct-2017 11:46:09 America/Chicago] PHP Notice:  Undefined variable: id_compra in /home/facec402/public_html/site/administracao/produto_vendido.php on line 167
+[22-Oct-2017 11:48:20 America/Chicago] PHP Notice:  Undefined variable: id_compra in /home/facec402/public_html/site/administracao/produto_vendido.php on line 167
+[22-Oct-2017 12:38:47 America/Chicago] PHP Notice:  Undefined index: compravante_postado in /home/facec402/public_html/site/administracao/produto_vendido.php on line 120
+[22-Oct-2017 12:38:47 America/Chicago] PHP Notice:  Undefined index: compravante_postado in /home/facec402/public_html/site/administracao/produto_vendido.php on line 131
+[22-Oct-2017 13:24:59 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 141
+[22-Oct-2017 13:24:59 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 160
+[22-Oct-2017 13:26:07 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 160
+[22-Oct-2017 13:27:34 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 160
+[22-Oct-2017 16:09:04 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 160
+[22-Oct-2017 16:12:36 America/Chicago] PHP Notice:  Undefined index: 	prod_reccebido in /home/facec402/public_html/site/administracao/prod_comprado.php on line 160
+[22-Oct-2017 17:54:27 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 245
+[22-Oct-2017 17:54:39 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 245
+[22-Oct-2017 17:54:41 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 245
+[22-Oct-2017 17:55:15 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 246
+[22-Oct-2017 17:55:27 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 246
+[22-Oct-2017 17:57:05 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 246
+[22-Oct-2017 17:58:41 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 245
+[22-Oct-2017 18:02:54 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 245
+[22-Oct-2017 18:04:08 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 246
+[22-Oct-2017 18:05:59 America/Chicago] PHP Notice:  Undefined variable: SESSION in /home/facec402/public_html/site/administracao/prod_comprado.php on line 246
+[22-Oct-2017 19:57:08 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 19:58:05 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 19:58:07 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 19:58:30 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 19:58:31 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 19:58:32 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/facec402/public_html/site/administracao/qualificacoes.php on line 13
+[22-Oct-2017 20:05:03 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'qualificacao_vendedor>0,qualificacao_comprado>0' at line 1' in /home/facec402/public_html/site/administracao/qualificacoes.php:14
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/qualificacoes.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/qualificacoes.php on line 14
+[22-Oct-2017 20:05:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and qualificacao_comprado>0' at line 1' in /home/facec402/public_html/site/administracao/qualificacoes.php:14
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/qualificacoes.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/qualificacoes.php on line 14
+[22-Oct-2017 20:09:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$contador' (T_VARIABLE), expecting '(' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 21
+[27-Oct-2017 21:33:46 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/facec402/public_html/site/administracao/prod_comprado.php:34
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/prod_comprado.php(34): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/prod_comprado.php on line 34
+[27-Oct-2017 21:56:25 America/Chicago] PHP Notice:  Undefined variable: _vendedor_id in /home/facec402/public_html/site/administracao/prod_comprado.php on line 269
+[27-Oct-2017 21:56:41 America/Chicago] PHP Notice:  Undefined variable: _vendedor_id in /home/facec402/public_html/site/administracao/prod_comprado.php on line 303
+[27-Oct-2017 22:26:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/facec402/public_html/site/administracao/produto_vendido.php on line 322
+[27-Oct-2017 22:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/facec402/public_html/site/administracao/produto_vendido.php on line 322
+[27-Oct-2017 22:31:54 America/Chicago] PHP Fatal error:  Call to undefined function notificar_atividade() in /home/facec402/public_html/site/administracao/confirmar_pagamento.php on line 25
+[27-Oct-2017 22:34:00 America/Chicago] PHP Notice:  Undefined variable: _vendedor_id in /home/facec402/public_html/site/administracao/produto_vendido.php on line 285
+[27-Oct-2017 22:34:58 America/Chicago] PHP Notice:  Undefined variable: _vendedor_id in /home/facec402/public_html/site/administracao/produto_vendido.php on line 257
+[27-Oct-2017 22:40:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/facec402/public_html/site/administracao/produto_vendido.php on line 317
+[27-Oct-2017 22:47:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/facec402/public_html/site/administracao/prod_comprado.php on line 338
+[27-Oct-2017 22:59:43 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SMARTPHONE MOTO G 2 GER .XT1068 ANDROID 4.4 8MP 8GB 5)' at line 1' in /home/facec402/public_html/site/administracao/prod_comprado.php:237
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/prod_comprado.php(237): PDO->query('INSERT INTO loc...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/prod_comprado.php on line 237
+[27-Oct-2017 23:40:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$quantidade_de_produtos_dispos' (T_VARIABLE) in /home/facec402/public_html/site/administracao/visitarproduto.php on line 46
+[27-Oct-2017 23:54:18 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/facec402/public_html/site/administracao/comprar.php on line 34
+[31-Oct-2017 19:47:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/facec402/public_html/site/administracao/visitarproduto.php on line 313
+[31-Oct-2017 19:48:55 America/Chicago] PHP Notice:  Undefined variable: quantidade_de_produtos_disposnivel in /home/facec402/public_html/site/administracao/visitarproduto.php on line 123
+[31-Oct-2017 20:51:14 America/Chicago] PHP Notice:  Undefined variable: quantidade_de_produtos_disposnivel in /home/facec402/public_html/site/administracao/visitarproduto.php on line 192
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:31:01 America/Chicago] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/facec402/public_html/site/administracao/pesquisar.php on line 57
+[14-Nov-2017 20:56:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/facec402/public_html/site/administracao/pesquisar.php on line 101
+[14-Nov-2017 21:20:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in /home/facec402/public_html/site/administracao/pesquisar.php on line 79
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 26
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 30
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 39
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 43
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_vendedor' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 24
+[15-Nov-2017 10:14:11 America/Chicago] PHP Warning:  Illegal string offset 'qualificacao_comprador' in /home/facec402/public_html/site/administracao/qualificacoes.php on line 37
+[21-Nov-2017 07:14:06 America/Chicago] PHP Fatal error:  Call to undefined function notificar_atividade() in /home/facec402/public_html/site/administracao/confirmar_pagamento.php on line 25
+[12-Jan-2018 07:17:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'i' (T_STRING), expecting '(' in /home/facec402/public_html/site/administracao/notificacoes.php on line 10
+[12-Jan-2018 07:17:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/facec402/public_html/site/administracao/notificacoes.php on line 10
+[12-Jan-2018 07:29:46 America/Chicago] PHP Warning:  require(../site/administracao/sessao.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/notificacoes.php on line 2
+[12-Jan-2018 07:29:46 America/Chicago] PHP Warning:  require(../site/administracao/sessao.php): failed to open stream: No such file or directory in /home/facec402/public_html/site/administracao/notificacoes.php on line 2
+[12-Jan-2018 07:29:46 America/Chicago] PHP Fatal error:  require(): Failed opening required '../site/administracao/sessao.php' (include_path='.:/opt/php54/lib/php') in /home/facec402/public_html/site/administracao/notificacoes.php on line 2
+[12-Jan-2018 08:23:09 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"' and localcom_produto_ativo=1' at line 1' in /home/facec402/public_html/site/administracao/visitarproduto.php:43
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/visitarproduto.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/visitarproduto.php on line 43
+[12-Jan-2018 09:34:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/facec402/public_html/site/administracao/notificacoes.php on line 96
+[12-Jan-2018 09:40:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/facec402/public_html/site/administracao/notificacoes.php on line 50
+[24-Jan-2018 18:59:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/facec402/public_html/site/administracao/visitarproduto.php on line 307
+[24-Jan-2018 20:39:31 America/Chicago] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/facec402/public_html/site/administracao/pesquisar.php on line 62
+[26-Jan-2018 16:07:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:18:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:18:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:19:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:20:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:21:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 65
+[26-Jan-2018 16:21:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 67
+[26-Jan-2018 16:24:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 67
+[26-Jan-2018 16:25:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 67
+[26-Jan-2018 16:30:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 67
+[26-Jan-2018 16:31:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 67
+[26-Jan-2018 16:32:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:33:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:34:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:34:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:35:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:35:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 16:36:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/site/administracao/pesquisar.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 69
+[26-Jan-2018 17:51:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/facec402/public_html/site/administracao/pesquisar.php on line 76
+[26-Jan-2018 17:53:32 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/facec402/public_html/site/administracao/pesquisar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:54:53 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:56:59 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:28 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:57:39 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 80
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 17:58:35 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 83
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:00:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  Illegal string offset 'localcom_produto' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:01:58 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:06:56 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:07:40 America/Chicago] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:09:36 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/facec402/public_html/site/administracao/pesquisar.php on line 85
+[26-Jan-2018 18:30:11 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/facec402/public_html/site/administracao/pesquisar.php on line 81
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:30:56 America/Chicago] PHP Warning:  strstr(): Empty needle in /home/facec402/public_html/site/administracao/pesquisar.php on line 87
+[26-Jan-2018 18:54:13 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/facec402/public_html/site/administracao/pesquisar.php on line 120
+[26-Jan-2018 18:54:34 America/Chicago] PHP Warning:  Illegal offset type in /home/facec402/public_html/site/administracao/pesquisar.php on line 120
+[26-Jan-2018 18:54:34 America/Chicago] PHP Warning:  Illegal offset type in /home/facec402/public_html/site/administracao/pesquisar.php on line 120
+[26-Jan-2018 18:54:34 America/Chicago] PHP Warning:  Illegal offset type in /home/facec402/public_html/site/administracao/pesquisar.php on line 120
+[27-Jan-2018 07:30:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$lista' (T_VARIABLE), expecting ',' or ';' in /home/facec402/public_html/site/administracao/pesquisar.php on line 125
+[27-Jan-2018 09:05:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.id_produto' in 'where clause' in /home/facec402/public_html/site/administracao/ativarprodutos.php:23
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/ativarprodutos.php(23): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/ativarprodutos.php on line 23
+[27-Jan-2018 09:05:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_vendedor' in 'where clause' in /home/facec402/public_html/site/administracao/ativarprodutos.php:23
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/ativarprodutos.php(23): PDO->query('SELECT * FROM l...')
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/ativarprodutos.php on line 23
+[29-Jan-2018 16:01:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/facec402/public_html/site/administracao/referencias.php on line 21
+[29-Jan-2018 16:02:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'facec402_localcom.loacacom_vendas' doesn't exist in /home/facec402/public_html/site/administracao/referencias.php:12
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/referencias.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/referencias.php on line 12
+[29-Jan-2018 16:02:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'facec402_localcom.loacalcom_vendas' doesn't exist in /home/facec402/public_html/site/administracao/referencias.php:12
+Stack trace:
+#0 /home/facec402/public_html/site/administracao/referencias.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/facec402/public_html/site/administracao/referencias.php on line 12
+[01-Feb-2018 07:37:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 07:59:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 23
+[01-Feb-2018 08:01:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 21
+[01-Feb-2018 08:04:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/facec402/public_html/inicial.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/inicial.php on line 21
+[01-Feb-2018 08:12:28 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/facec402/public_html/visitarproduto.php on line 81
+[01-Feb-2018 08:15:47 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/facec402/public_html/visitarproduto.php on line 110
+[01-Feb-2018 09:56:32 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/facec402/public_html/inicial.php on line 40
+[05-Feb-2018 07:21:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'localcom_vendas WHERE id_vendedor='17' or id_comprador='17' order by data_venda ' at line 1 in /home/facec402/public_html/visitarproduto.php:121
+Stack trace:
+#0 /home/facec402/public_html/visitarproduto.php(121): PDO->query('SELECT * localc...')
+#1 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 121
+[05-Feb-2018 07:23:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'localcom_vendas WHERE id_vendedor=17 or id_comprador=17 order by data_venda desc' at line 1 in /home/facec402/public_html/visitarproduto.php:121
+Stack trace:
+#0 /home/facec402/public_html/visitarproduto.php(121): PDO->query('SELECT * localc...')
+#1 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 121
+[05-Feb-2018 07:24:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'localcom_vendas WHERE id_vendedor=17 or id_comprador=17 order by data_venda desc' at line 1 in /home/facec402/public_html/visitarproduto.php:121
+Stack trace:
+#0 /home/facec402/public_html/visitarproduto.php(121): PDO->query('SELECT * localc...')
+#1 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 121
+[05-Feb-2018 07:28:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'localcom_vendas WHERE id_vendedor=17 or id_comprador=17 order by data_venda desc' at line 1 in /home/facec402/public_html/visitarproduto.php:124
+Stack trace:
+#0 /home/facec402/public_html/visitarproduto.php(124): PDO->query('SELECT * localc...')
+#1 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 124
+[05-Feb-2018 07:32:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'localcom_vendas WHERE id_vendedor=17 or id_comprador=17' at line 1 in /home/facec402/public_html/visitarproduto.php:124
+Stack trace:
+#0 /home/facec402/public_html/visitarproduto.php(124): PDO->query('SELECT * localc...')
+#1 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 124
+[05-Feb-2018 07:37:36 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/facec402/public_html/visitarproduto.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/facec402/public_html/visitarproduto.php on line 126
+[10-Feb-2018 00:39:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/facec402/public_html/produto_vendido.php on line 78
